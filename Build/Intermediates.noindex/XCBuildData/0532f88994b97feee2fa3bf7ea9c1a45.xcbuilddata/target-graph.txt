@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'rock paper scissor' in project 'rock paper scissor' (no dependencies)
